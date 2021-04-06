@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeamSparta-Inc%2Fsparta-alogrithm-365&count_bg=%233461A0&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E8344E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 365 Spartan
 ![sparta-365-logo](static/sparta-365-logo.png)
 
