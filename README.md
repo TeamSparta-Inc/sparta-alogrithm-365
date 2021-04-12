@@ -57,7 +57,29 @@
 | 참여자 (1) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 참석율 |
 | --- | --- | --- | --- | --- | --- | --- |
 | example |:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 60.00% |
-| academey |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
+| kimth0526@gmail.com |||||| 0% |
+| phs960418@gmail.com |||||| 0% |
+| miseong1028@gmail.com  |||||| 0% |
+| iamyoona@yonsei.ac.kr |||||| 0% |
+| pkeowkd@naver.com |||||| 0% |
+| cheryleduart@gmail.com |||||| 0% |
+| gyrbs22@gmail.com |||||| 0% |
+| jinyoon00@gmail.com |||||| 0% |
+| haams704@gmail.com |||||| 0% |
+| dawnofspring@daum.net |||||| 0% |
+| dasom9536@naver.com |||||| 0% |
+| Leejunmyung |||||| 0% |
+| hyewon.park@mnsu.edu |||||| 0% |
+| tkdcjf1230@naver.com |||||| 0% |
+| june.sung.06@gmail.com |||||| 0% |
+| herrakam |||||| 0% |
+| tlsghdcjf41@gmail.com |||||| 0% |
+| yeojeong.kim90@gmail.com |||||| 0% |
+| chsw000@naver.com  |||||| 0% |
+| phyw1129@naver.com |||||| 0% |
+| 5agrvd@gmail.com |||||| 0% |
+| kidonseo@gmail.com |||||| 0% |
+
 
 [스파르타코딩클럽]: https://spartacodingclub.kr/
 [블로그 작성 가이드]: https://www.notion.so/teamsparta/92cefa0b72064c7f8ce44fa053792f2b
