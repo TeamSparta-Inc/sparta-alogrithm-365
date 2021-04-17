@@ -44,7 +44,7 @@
 ### 일정
 
 * [1주차 문제들][1주차 문제들]
-* [2주차 문제들]()
+* [2주차 문제들][2주차 문제들]
 * [3주차 문제들]()
 * [4주차 문제들]()
 * [5주차 문제들]()
@@ -86,3 +86,4 @@
 [Github 가이드]: https://www.notion.so/teamsparta/Github-4f3070b6fca646bdad04aaaf32a4bccf
 [구글폼]: https://forms.gle/LR16Fsps69VyugBy9
 [1주차 문제들]: https://github.com/TeamSparta-Inc/sparta-alogrithm-365/issues/2
+[2주차 문제들]: https://github.com/TeamSparta-Inc/sparta-alogrithm-365/issues/4
