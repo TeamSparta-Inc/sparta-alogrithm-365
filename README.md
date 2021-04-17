@@ -64,22 +64,22 @@
 | pkeowkd@naver.com |||||| 0% |
 | cheryleduart@gmail.com |||||| 0% |
 | LEEHyokyun |||||| 0% |
-| genuinenameerror | 100% ||||| 0% |
+| genuinenameerror | 100% ||||| 20% |
 | haamseongho |||||| 0% |
-| simyoju | 40% ||||| 0% |
+| simyoju | 40% ||||| 8% |
 | dasom9536 |||||| 0% |
-| Leejunmyung | 80% ||||| 0% |
+| Leejunmyung | 80% ||||| 16% |
 | hyewon.park@mnsu.edu |||||| 0% |
 | tkdcjf1230@naver.com |||||| 0% |
 | june.sung.06@gmail.com |||||| 0% |
 | herrakam |||||| 0% |
-| hongcheol | 100% ||||| 0% |
+| hongcheol | 100% ||||| 20% |
 | yeojeong.kim90@gmail.com |||||| 0% |
 | chsw000@naver.com  |||||| 0% |
 | phyw1129@naver.com |||||| 0% |
 | 5agrvd@gmail.com |||||| 0% |
 | kidonseo@gmail.com |||||| 0% |
-| area363 | 100% ||||| 0% |
+| area363 | 100% ||||| 20% |
 | gerherh |||||| 0% |
 
 
