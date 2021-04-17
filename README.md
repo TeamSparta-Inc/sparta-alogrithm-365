@@ -63,22 +63,24 @@
 | iamyoona@yonsei.ac.kr |||||| 0% |
 | pkeowkd@naver.com |||||| 0% |
 | cheryleduart@gmail.com |||||| 0% |
-| gyrbs22@gmail.com |||||| 0% |
-| jinyoon00@gmail.com |||||| 0% |
-| haams704@gmail.com |||||| 0% |
-| dawnofspring@daum.net |||||| 0% |
-| dasom9536@naver.com |||||| 0% |
-| Leejunmyung |||||| 0% |
+| LEEHyokyun |||||| 0% |
+| genuinenameerror | 100% ||||| 0% |
+| haamseongho |||||| 0% |
+| simyoju | 40% ||||| 0% |
+| dasom9536 |||||| 0% |
+| Leejunmyung | 80% ||||| 0% |
 | hyewon.park@mnsu.edu |||||| 0% |
 | tkdcjf1230@naver.com |||||| 0% |
 | june.sung.06@gmail.com |||||| 0% |
 | herrakam |||||| 0% |
-| tlsghdcjf41@gmail.com |||||| 0% |
+| hongcheol | 100% ||||| 0% |
 | yeojeong.kim90@gmail.com |||||| 0% |
 | chsw000@naver.com  |||||| 0% |
 | phyw1129@naver.com |||||| 0% |
 | 5agrvd@gmail.com |||||| 0% |
 | kidonseo@gmail.com |||||| 0% |
+| area363 | 100% ||||| 0% |
+| gerherh |||||| 0% |
 
 
 [스파르타코딩클럽]: https://spartacodingclub.kr/
