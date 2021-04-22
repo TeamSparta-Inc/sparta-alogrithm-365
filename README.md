@@ -64,16 +64,16 @@
 | South_fe_tube |||||| 0% |
 | cheryleduart@gmail.com |||||| 0% |
 | LEEHyokyun |||||| 0% |
-| genuinenameerror | 100% ||||| 20% |
+| genuinenameerror | 100% | 80% |||| 36% |
 | haamseongho |||||| 0% |
-| simyoju | 40% ||||| 8% |
+| simyoju | 40% | 40% |||| 16% |
 | dasom9536 |||||| 0% |
-| Leejunmyung | 100% ||||| 20% |
+| Leejunmyung | 100% | 80% |||| 36% |
 | hyewon.park@mnsu.edu |||||| 0% |
 | cjf1230 | 100% ||||| 20% |
 | JSung06 |||||| 0% |
 | herrakam |||||| 0% |
-| hongcheol | 100% ||||| 20% |
+| hongcheol | 100% | 100% |||| 40% |
 | yeojeong998 |||||| 0% |
 | wjdghks963 |||||| 0% |
 | phyw1129@naver.com |||||| 0% |
