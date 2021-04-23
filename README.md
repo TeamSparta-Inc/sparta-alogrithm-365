@@ -54,33 +54,33 @@
 ## 스터디 참여 현황
 
 ### 1기
-| 참여자 (1) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 참석율 |
-| --- | --- | --- | --- | --- | --- | --- |
-| example |:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 60.00% |
-| kimth0526@gmail.com |||||| 0% |
-| phs960418@gmail.com |||||| 0% |
-| miseong1028@gmail.com  |||||| 0% |
-| iamyoona@yonsei.ac.kr |||||| 0% |
-| South_fe_tube |||||| 0% |
-| cheryleduart@gmail.com |||||| 0% |
-| LEEHyokyun || 20% |||| 4% |
-| genuinenameerror | 100% | 100% |||| 40% |
-| haamseongho |||||| 0% |
-| simyoju | 40% | 80% |||| 24% |
-| dasom9536 |||||| 0% |
-| Leejunmyung | 100% | 100% |||| 40% |
-| hyewon.park@mnsu.edu |||||| 0% |
-| cjf1230 | 100% | 100% |||| 40% |
-| JSung06 |||||| 0% |
-| herrakam |||||| 0% |
-| hongcheol | 100% | 100% |||| 40% |
-| yeojeong998 |||||| 0% |
-| wjdghks963 |||||| 0% |
-| phyw1129@naver.com |||||| 0% |
-| oheunkwon |||||| 0% |
-| kidonseo@gmail.com |||||| 0% |
-| area363 | 100% ||||| 20% |
-| gerherh |||||| 0% |
+| 참여자 (1) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 참석율 | 베스트 풀이 |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| example |:white_check_mark:|:white_check_mark:|:white_check_mark:|| | 60.00% | | 
+| kimth0526@gmail.com |||||| 0% ||
+| phs960418@gmail.com |||||| 0% ||
+| miseong1028@gmail.com  |||||| 0% ||
+| iamyoona@yonsei.ac.kr |||||| 0% ||
+| South_fe_tube |||||| 0% ||
+| cheryleduart@gmail.com |||||| 0% ||
+| LEEHyokyun || 20% |||| 4% ||
+| genuinenameerror | 100% | 100% |||| 40% ||
+| haamseongho |||||| 0% ||
+| simyoju | 40% | 80% |||| 24% ||
+| dasom9536 |||||| 0% ||
+| Leejunmyung | 100% | 100% |||| 40% ||
+| hyewon.park@mnsu.edu |||||| 0% ||
+| cjf1230 | 100% | 100% |||| 40% ||
+| JSung06 |||||| 0% ||
+| herrakam |||||| 0% ||
+| hongcheol | 100% | 100% |||| 40% ||
+| yeojeong998 |||||| 0% ||
+| wjdghks963 |||||| 0% ||
+| phyw1129@naver.com |||||| 0% ||
+| oheunkwon |||||| 0% ||
+| kidonseo@gmail.com |||||| 0% ||
+| area363 | 100% ||||| 20% ||
+| gerherh |||||| 0% ||
 
 
 [스파르타코딩클럽]: https://spartacodingclub.kr/
