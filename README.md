@@ -68,7 +68,7 @@
 | haamseongho |||||| 0% |
 | simyoju | 40% | 80% |||| 24% |
 | dasom9536 |||||| 0% |
-| Leejunmyung | 100% | 80% |||| 36% |
+| Leejunmyung | 100% | 100% |||| 40% |
 | hyewon.park@mnsu.edu |||||| 0% |
 | cjf1230 | 100% | 100% |||| 40% |
 | JSung06 |||||| 0% |
