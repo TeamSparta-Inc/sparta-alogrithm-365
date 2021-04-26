@@ -64,7 +64,7 @@
 | South_fe_tube |||||| 0% ||
 | cheryleduart@gmail.com |||||| 0% ||
 | LEEHyokyun || 20% |||| 4% ||
-| genuinenameerror | 100% | 100% |||| 40% ||
+| genuinenameerror | 100% | 100% |||| 40% | 7 |
 | haamseongho |||||| 0% ||
 | simyoju | 40% | 80% |||| 24% ||
 | dasom9536 |||||| 0% ||
@@ -73,7 +73,7 @@
 | cjf1230 | 100% | 100% |||| 40% ||
 | JSung06 |||||| 0% ||
 | herrakam |||||| 0% ||
-| hongcheol | 100% | 100% |||| 40% ||
+| hongcheol | 100% | 100% |||| 40% | 3 |
 | yeojeong998 |||||| 0% ||
 | wjdghks963 |||||| 0% ||
 | phyw1129@naver.com |||||| 0% ||
