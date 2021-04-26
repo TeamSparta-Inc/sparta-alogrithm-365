@@ -79,7 +79,7 @@
 | phyw1129@naver.com |||||| 0% ||
 | oheunkwon |||||| 0% ||
 | kidonseo@gmail.com |||||| 0% ||
-| area363 | 100% ||||| 20% ||
+| area363 | 100% | 100% |||| 40% ||
 | gerherh |||||| 0% ||
 
 
