@@ -63,17 +63,17 @@
 | iamyoona@yonsei.ac.kr |||||| 0% ||
 | South_fe_tube |||||| 0% ||
 | cheryleduart@gmail.com |||||| 0% ||
-| LEEHyokyun || 20% |||| 4% ||
-| genuinenameerror | 100% | 100% |||| 40% | 7 |
+| LEEHyokyun || 20% | 20% | 40% || 16% ||
+| genuinenameerror | 100% | 100% | 100% | 100% || 80% | 7 |
 | haamseongho |||||| 0% ||
-| simyoju | 40% | 80% |||| 24% ||
+| simyoju | 40% | 80% | 100% | 100% || 64% ||
 | dasom9536 |||||| 0% ||
-| Leejunmyung | 100% | 100% |||| 40% ||
+| Leejunmyung | 100% | 100% | 40% ||| 48% ||
 | hyewon.park@mnsu.edu |||||| 0% ||
 | cjf1230 | 100% | 100% |||| 40% ||
 | JSung06 |||||| 0% ||
 | herrakam |||||| 0% ||
-| hongcheol | 100% | 100% |||| 40% | 3 |
+| hongcheol | 100% | 100% | 100% | 100% || 80% | 3 |
 | yeojeong998 |||||| 0% ||
 | wjdghks963 |||||| 0% ||
 | phyw1129@naver.com |||||| 0% ||
